@@ -1543,9 +1543,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What should Developers do if the Product Owner is unavailable?
 
 - [ ] Wait until the Product Owner is available again.
-- [ ] Management should assisgn a substitue Product Owner to fill in where the Product Oner cannot be there.
+- [ ] Management should assign a substitue Product Owner to fill in where the Product Oner cannot be there.
 - [ ] Ask the Product Owner's manager to decide in the Product Owner's absence.
-- [x] Within the Sprint, the Developers make the best decisions posssible to assure progress towards the Sprint Goal, re-aligning with the Product Owner once they are available again.
+- [x] Within the Sprint, the Developers make the best decisions possible to assure progress towards the Sprint Goal, re-aligning with the Product Owner once they are available again.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1572,7 +1572,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The Product Owner provides the stakeholders with acceptance forms at the Sprint Review to record their formal agreement over the delivered software.
 - [x] The Product Owner actively asks for stahekolder input and expactations to incorporate into the Product Backlog.
 - [ ] The Product Owner has the final call over the requirements and should involve the stakeholders as little as possible.
-- [ ] The Product Oner rites the Usser Storiess as provided by the stakeholders.
+- [ ] The Product Oner writes the Usser Stories as provided by the stakeholders.
 
 **[⬆ Back to Top](#table-of-contents)**
 
