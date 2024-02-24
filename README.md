@@ -1473,8 +1473,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] A clear cadence of when the Daily Scrum will take place.
 - [x] A Product Backlog with the most important items ready for discussion.
 - [ ] Formal budget approval to conduct another Sprint.
-- [ ] A Product Goal communicated by the Product Owner.
-- [x] A clear and non-negotiable Sprint Goal.
+- [x] A Product Goal communicated by the Product Owner.
+- [ ] A clear and non-negotiable Sprint Goal.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1543,9 +1543,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What should Developers do if the Product Owner is unavailable?
 
 - [ ] Wait until the Product Owner is available again.
-- [ ] Management should assisgn a substitue Product Owner to fill in where the Product Oner cannot be there.
+- [ ] Management should assign a substitue Product Owner to fill in where the Product Owner cannot be there.
 - [ ] Ask the Product Owner's manager to decide in the Product Owner's absence.
-- [x] Within the Sprint, the Developers make the best decisions posssible to assure progress towards the Sprint Goal, re-aligning with the Product Owner once they are available again.
+- [x] Within the Sprint, the Developers make the best decisions possible to assure progress towards the Sprint Goal, re-aligning with the Product Owner once they are available again.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1553,7 +1553,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] They should work apart as much as posssible in order to keep the concerns of business and technology separated.
 - [x] They collaborate often so the Developers build Increments keeping end-user and stakeholder concerns in mind.
-- [x] They collaborate often so the Product Oner can make informed decisions in balancing effort and value of Product Backlog Items.
+- [x] They collaborate often so the Product Owner can make informed decisions in balancing effort and value of Product Backlog Items.
 - [ ] They should share no more than the Sprint Planning and the Sprint Review meeting.
 - [ ] The Product Owner should be with the Developers full-time to grow a deep understanding of the technology being used.
 
@@ -1572,7 +1572,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The Product Owner provides the stakeholders with acceptance forms at the Sprint Review to record their formal agreement over the delivered software.
 - [x] The Product Owner actively asks for stahekolder input and expactations to incorporate into the Product Backlog.
 - [ ] The Product Owner has the final call over the requirements and should involve the stakeholders as little as possible.
-- [ ] The Product Oner rites the Usser Storiess as provided by the stakeholders.
+- [ ] The Product Owner writes the Usser Stories as provided by the stakeholders.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1589,7 +1589,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Is the Product Owner required to be present at the Sprint Retrospective?
 
 - [ ] They are not allowed. The Sprint Retrosspective is an opportunity for the Developerss to improve.
-- [ ] They are optional. Attendance is only required when the Product Oner gets invited by the Scrum Master.
+- [ ] They are optional. Attendance is only required when the Product Owner gets invited by the Scrum Master.
 - [x] Their attendance is mandatory. The Sprint Retrospective is an opportunity for the Scrum Team to assess and improve itself.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1736,7 +1736,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Hardening Sprints.
 - [ ] Story Points.
-- [ ] Time boxed events.
+- [x] Time boxed events.
 - [x] Sprint Planning meetings.
 - [ ] A Sprint 0.
 
@@ -2491,10 +2491,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### In the middle of the Sprint, the customer decides that there are two new features she wants. The Product Owner could: (choose the best two answers)
 
-- [ ] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
-- [x] Introduce these features at the next Daily Scrum.
-- [x] Have the Scrum Master add these features to the current Sprint.
-- [ ] Add these features to the Product Backlog.
+- [x] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
+- [ ] Introduce these features at the next Daily Scrum.
+- [ ] Have the Scrum Master add these features to the current Sprint.
+- [x] Add these features to the Product Backlog.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2510,9 +2510,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### When the Developers determine that they will not be able to finish the complete forecast, who needs to be present when reviewing and adjusting the Sprint work selected? (choose the best answer)
 
-- [x] The Scrum Master and the Developers.
+- [ ] The Scrum Master and the Developers.
 - [ ] The Product Owner and all stakeholders.
-- [ ] The Product Owner and the Developers.
+- [x] The Product Owner and the Developers.
 - [ ] The Scrum Master project manager and the Developers.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2520,7 +2520,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A Scrum Team is a cohesive unit of professionals that consists of which of the following? (choose all that apply)
 
 - [x] Developers.
-- [ ] One Product Owner.
+- [x] One Product Owner.
 - [ ] Users.
 - [x] One Scrum Master.
 - [ ] Customers.
@@ -2604,8 +2604,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Who owns the Sprint Backlog? (choose the best answer)
 
 - [ ] The Product Owner.
-- [x] The Scrum Team.
-- [ ] The Developers.
+- [ ] The Scrum Team.
+- [x] The Developers.
 - [ ] The Scrum Master.
 
 **[⬆ Back to Top](#table-of-contents)**
