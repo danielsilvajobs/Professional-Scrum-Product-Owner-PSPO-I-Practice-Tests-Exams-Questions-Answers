@@ -1473,8 +1473,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] A clear cadence of when the Daily Scrum will take place.
 - [x] A Product Backlog with the most important items ready for discussion.
 - [ ] Formal budget approval to conduct another Sprint.
-- [ ] A Product Goal communicated by the Product Owner.
-- [x] A clear and non-negotiable Sprint Goal.
+- [x] A Product Goal communicated by the Product Owner.
+- [ ] A clear and non-negotiable Sprint Goal.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1736,7 +1736,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Hardening Sprints.
 - [ ] Story Points.
-- [ ] Time boxed events.
+- [x] Time boxed events.
 - [x] Sprint Planning meetings.
 - [ ] A Sprint 0.
 
@@ -2491,10 +2491,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### In the middle of the Sprint, the customer decides that there are two new features she wants. The Product Owner could: (choose the best two answers)
 
-- [ ] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
-- [x] Introduce these features at the next Daily Scrum.
-- [x] Have the Scrum Master add these features to the current Sprint.
-- [ ] Add these features to the Product Backlog.
+- [x] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
+- [ ] Introduce these features at the next Daily Scrum.
+- [ ] Have the Scrum Master add these features to the current Sprint.
+- [x] Add these features to the Product Backlog.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2510,9 +2510,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### When the Developers determine that they will not be able to finish the complete forecast, who needs to be present when reviewing and adjusting the Sprint work selected? (choose the best answer)
 
-- [x] The Scrum Master and the Developers.
+- [ ] The Scrum Master and the Developers.
 - [ ] The Product Owner and all stakeholders.
-- [ ] The Product Owner and the Developers.
+- [x] The Product Owner and the Developers.
 - [ ] The Scrum Master project manager and the Developers.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2520,7 +2520,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A Scrum Team is a cohesive unit of professionals that consists of which of the following? (choose all that apply)
 
 - [x] Developers.
-- [ ] One Product Owner.
+- [x] One Product Owner.
 - [ ] Users.
 - [x] One Scrum Master.
 - [ ] Customers.
@@ -2604,8 +2604,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Who owns the Sprint Backlog? (choose the best answer)
 
 - [ ] The Product Owner.
-- [x] The Scrum Team.
-- [ ] The Developers.
+- [ ] The Scrum Team.
+- [x] The Developers.
 - [ ] The Scrum Master.
 
 **[⬆ Back to Top](#table-of-contents)**
